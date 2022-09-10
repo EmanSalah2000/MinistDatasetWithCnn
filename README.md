@@ -1,2 +1,2 @@
 # MinistDatasetWithCnn
-chane archticture of cnn to reach the best  accuarcy
+Classify mnist dataset with using Deep Neural Network that creating features and classify it 
